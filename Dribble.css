@@ -36,7 +36,7 @@
     font-weight: bolder;
     font-size: 20px;
     background-color: rgb(194, 146, 238);
-    margin-left: 33%;
+    margin-left: 41%;
     margin-right: 33%;
     
 }
@@ -46,7 +46,7 @@
 .BLck2{
     font-size: 66px;
     text-wrap: wrap;
-    margin-left: 21%;
+    margin-left: 35%;
     margin-right: 21%;
     margin-top: 20px;
     text-align: center;
@@ -57,7 +57,7 @@
     font-size: 22px;
     text-align: center;
     width: 737px;
-    margin-left: 20%;
+    margin-left: 35%;
     margin-right: 20%;
     margin-top: 20px;
 }
@@ -146,4 +146,17 @@ img{
 .col14{
     background-size: cover;
     background-repeat: no-repeat;
+}
+
+.Button{
+    margin-top: 43px;
+    margin-left: 46%;
+    color: white;
+    padding-top: 13px;
+    align-items: center;
+    height: 35px;
+    width: 115px;
+    text-align: center;
+    background-color: rgb(21, 5, 49);
+    border-radius: 27px;
 }
