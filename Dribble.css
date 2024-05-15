@@ -11,6 +11,28 @@
     
    
 }
+.FindD{
+    border: none;
+    font-weight: 600;
+    font-size: medium;
+    
+}
+#Courses{
+    border: none;
+    font-weight: 600;
+    font-size: medium;
+}
+.custom-search{
+    border: whitesmoke;
+    border-radius: 17px;
+    height: 35px;
+    background-color: whitesmoke;
+    padding-left: 7px;
+    margin-bottom:10px ;
+    
+}
+
+
 
 .ch8{
     
@@ -36,7 +58,7 @@
     font-weight: bolder;
     font-size: 20px;
     background-color: rgb(194, 146, 238);
-    margin-left: 41%;
+    margin-left: 34%;
     margin-right: 33%;
     
 }
@@ -46,8 +68,8 @@
 .BLck2{
     font-size: 66px;
     text-wrap: wrap;
-    margin-left: 35%;
-    margin-right: 21%;
+    margin-left: 23%;
+    margin-right: 30%;
     margin-top: 20px;
     text-align: center;
     width: 722px;
@@ -57,9 +79,16 @@
     font-size: 22px;
     text-align: center;
     width: 737px;
-    margin-left: 35%;
+    margin-left: 23%;
     margin-right: 20%;
     margin-top: 20px;
+}
+.blck4{
+    margin-top: 57px;
+    margin-bottom: 27px;
+    font-size: 57px;
+    text-align: center;
+    color: rgb(13, 3, 32);
 }
 
 .row{
@@ -150,7 +179,7 @@ img{
 
 .Button{
     margin-top: 43px;
-    margin-left: 46%;
+    margin-left: 44%;
     color: white;
     padding-top: 13px;
     align-items: center;
@@ -159,4 +188,19 @@ img{
     text-align: center;
     background-color: rgb(21, 5, 49);
     border-radius: 27px;
+}
+.container{
+    display: flex;
+    
+    flex-wrap: wrap;
+    margin-inline-start: 133px;
+    
+    
+}
+.comp{
+    width: 23%;
+    height: 227px;
+    margin-inline:8px ;
+    margin-top: 27px;
+    align-items: center;
 }
